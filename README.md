@@ -28,6 +28,4 @@ With [Web Stories for WordPress](https://wp.stories.google/), we're bringing fir
 
 If you find any issues, please reach out by visiting the [support forum](https://wordpress.org/support/plugin/web-stories/) to ask any questions or file feature requests.
 
-## Contributing
 
-We'd love to accept your patches and contributions to this project. There are just a few small guidelines you need to follow. Please check out our [Contributing documentation](./CONTRIBUTING.md) and the [Getting Started](./docs/getting-started.md) guide.
